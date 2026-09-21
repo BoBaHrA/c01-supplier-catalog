@@ -8,6 +8,7 @@ venv/
 # Local/client data: never commit real supplier files or client outputs
 data/incoming/
 data/client/
+data/demo/*.xlsx
 output/*
 !output/.gitkeep
 

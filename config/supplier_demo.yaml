@@ -1,0 +1,46 @@
+supplier_name: Demo Fournisseur France
+sheet_name: Catalogue
+header_row: 1
+
+columns:
+  "Réf. fournisseur": sku
+  "Désignation": name
+  "EAN13": ean
+  "Prix HT": price
+  "Stock": stock
+  "Conditionnement": packaging
+  "Famille": category
+  "Réf. modèle": parent_sku
+  "Nom modèle": parent_name
+  "Couleur": color
+  "Taille": size
+  "Unité": unit
+  "TVA %": vat_rate
+  "Poids kg": weight_kg
+  "Actif": active
+
+required_headers:
+  - "Réf. fournisseur"
+  - "Désignation"
+  - "Prix HT"
+  - "Stock"
+
+normalization:
+  currency_tokens: ["€", "EUR"]
+  packaging_units:
+    piece: ["pc", "pcs", "piece", "pieces", "pièce", "pièces", "unité", "unités"]
+    g: ["g", "gr", "gramme", "grammes"]
+    kg: ["kg", "kilo", "kilos"]
+    ml: ["ml"]
+    l: ["l", "litre", "litres"]
+
+woocommerce:
+  price_basis: excluding_tax
+  published: -1
+  tax_status: taxable
+  tax_class: standard
+  gtin_mode: native
+  attribute_order: [color, size]
+  attribute_labels:
+    color: Couleur
+    size: Taille

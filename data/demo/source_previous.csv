@@ -1,0 +1,45 @@
+Réf. fournisseur,Désignation,EAN13,Prix HT,Stock,Conditionnement,Famille,Réf. modèle,Nom modèle,Couleur,Taille,Unité,TVA %,Poids kg,Actif
+000101,Mug isotherme inox 450 ml,3761000001011,"12,50",18,1 pc,Maison > Cuisine,,,,,pc,20,"0,25",Oui
+000102,Bouteille verre 750 ml,3761000001028,8.90,7,1 pc,Maison > Cuisine,,,,,pc,20,"0,25",Oui
+000103,Boîte repas bambou,3761000001035,"14,95",12,1 pc,Maison > Cuisine,,,,,pc,20,"0,25",Oui
+000104,Set couverts voyage,3761000001042,"6,40",33,1 pc,Maison > Cuisine,,,,,pc,20,"0,25",Oui
+000105,Câble USB-C tressé 2 m,3761000001059,"9,90",25,1 pc,Électronique > Accessoires,,,,,pc,20,"0,25",Oui
+000106,Chargeur USB-C 30 W,3761000001066,"18,50",14,1 pc,Électronique > Accessoires,,,,,pc,20,"0,25",Oui
+000107,Support téléphone aluminium,3761000001073,"16,90",9,1 pc,Électronique > Accessoires,,,,,pc,20,"0,25",Oui
+000108,Hub USB-C 6-en-1,3761000001080,"39,90",5,1 pc,Électronique > Accessoires,,,,,pc,20,"0,25",Oui
+000109,Tapis de souris XL,3761000001097,"11,90",24,1 pc,Électronique > Accessoires,,,,,pc,20,"0,25",Oui
+000110,Lampe de bureau LED,3761000001103,"29,90",8,1 pc,Maison > Bureau,,,,,pc,20,"0,25",Oui
+000111,Carnet A5 recyclé,3761000001110,"4,50",50,1 pc,Papeterie,,,,,pc,20,"0,25",Oui
+000112,Stylo gel noir lot de 3,3761000001127,"3,90",70,3 pcs,Papeterie,,,,,pc,20,"0,25",Oui
+000113,Bougie parfumée cèdre,3761000001134,"15,90",16,1 pc,Maison > Décoration,,,,,pc,20,"0,25",Oui
+000114,Sachets rangement sous vide,3761000001141,"18,90",20,6 pcs,Maison > Rangement,,,,,pc,20,"0,25",Oui
+000115,Granola noisette,3761000001158,"7,50",15,500 g,Épicerie,,,,,pc,20,"0,25",Oui
+000116,Casque Bluetooth Urban,3761000001165,"99,90",6,1 pc,Électronique > Audio,,,,,pc,20,"0,25",Oui
+000117,Enceinte Bluetooth Mini,3761000001172,"34,90",4,1 pc,Électronique > Audio,,,,,pc,20,"0,25",Oui
+000118,Tapis yoga antidérapant,3761000001189,"24,90",11,1 pc,Sport > Fitness,,,,,pc,20,"0,25",Oui
+000119,Gourde sport 1 L,3761000001196,"13,90",19,1 pc,Sport > Fitness,,,,,pc,20,"0,25",Oui
+000120,Élastiques fitness lot,3761000001202,"9,50",32,5 pcs,Sport > Fitness,,,,,pc,20,"0,25",Oui
+000121,Crème mains karité,3761000001219,"5,90",28,1 pc,Beauté,,,,,pc,20,"0,25",Oui
+000122,Savon solide lavande,3761000001226,"4,20",40,1 pc,Beauté,,,,,pc,20,"0,25",Oui
+000123,Shampoing solide agrumes,3761000001233,"7,90",22,1 pc,Beauté,,,,,pc,20,"0,25",Oui
+000124,Serviette microfibre,3761000001240,"12,90",13,1 pc,Maison > Salle de bain,,,,,pc,20,"0,25",Oui
+000125,Panier rangement coton,3761000001257,"19,90",10,1 pc,Maison > Rangement,,,,,pc,20,"0,25",Oui
+000126,Plaid polaire 130x170,3761000001264,"26,90",7,1 pc,Maison > Décoration,,,,,pc,20,"0,25",Oui
+000127,Coussin velours 45x45,3761000001271,"17,90",17,1 pc,Maison > Décoration,,,,,pc,20,"0,25",Oui
+000128,Horloge murale minimaliste,3761000001288,"22,90",6,1 pc,Maison > Décoration,,,,,pc,20,"0,25",Oui
+000129,Lessive liquide concentrée,3761000001295,"10,90",21,2 l,Maison > Entretien,,,,,pc,20,"0,25",Oui
+000130,Nettoyant multi-surfaces,3761000001301,"6,90",27,750 ml,Maison > Entretien,,,,,pc,20,"0,25",Oui
+001001,T-shirt Basic Noir M,3761000010013,"11,90",18,1 pc,Textile > T-shirts,TSH-BASIC-N,T-shirt Basic Noir,Noir,M,pc,20,"0,25",Oui
+001002,T-shirt Basic Noir L,3761000010020,"11,90",15,1 pc,Textile > T-shirts,TSH-BASIC-N,T-shirt Basic Noir,Noir,L,pc,20,"0,25",Oui
+001003,T-shirt Basic Noir XL,3761000010037,"11,90",9,1 pc,Textile > T-shirts,TSH-BASIC-N,T-shirt Basic Noir,Noir,XL,pc,20,"0,25",Oui
+001004,T-shirt Basic Blanc M,3761000010044,"11,90",20,1 pc,Textile > T-shirts,TSH-BASIC-B,T-shirt Basic Blanc,Blanc,M,pc,20,"0,25",Oui
+001005,T-shirt Basic Blanc L,3761000010051,"11,90",13,1 pc,Textile > T-shirts,TSH-BASIC-B,T-shirt Basic Blanc,Blanc,L,pc,20,"0,25",Oui
+001006,T-shirt Basic Blanc XL,3761000010068,"11,90",8,1 pc,Textile > T-shirts,TSH-BASIC-B,T-shirt Basic Blanc,Blanc,XL,pc,20,"0,25",Oui
+002001,Chaussure RunFlex Noir 41,3761000020012,"64,90",4,1 pc,Sport > Chaussures,RUNFLEX-N,Chaussure RunFlex Noir,Noir,41,pc,20,"0,25",Oui
+002002,Chaussure RunFlex Noir 42,3761000020029,"64,90",7,1 pc,Sport > Chaussures,RUNFLEX-N,Chaussure RunFlex Noir,Noir,42,pc,20,"0,25",Oui
+002003,Chaussure RunFlex Noir 43,3761000020036,"64,90",6,1 pc,Sport > Chaussures,RUNFLEX-N,Chaussure RunFlex Noir,Noir,43,pc,20,"0,25",Oui
+002004,Chaussure RunFlex Noir 44,3761000020043,"64,90",3,1 pc,Sport > Chaussures,RUNFLEX-N,Chaussure RunFlex Noir,Noir,44,pc,20,"0,25",Oui
+003001,Mug céramique Studio Rouge,3761000030011,"8,50",10,1 pc,Maison > Cuisine,MUG-STUDIO,Mug céramique Studio,Rouge,,pc,20,"0,25",Oui
+003002,Mug céramique Studio Bleu,3761000030028,"8,50",11,1 pc,Maison > Cuisine,MUG-STUDIO,Mug céramique Studio,Bleu,,pc,20,"0,25",Oui
+003003,Mug céramique Studio Blanc,3761000030035,"8,50",9,1 pc,Maison > Cuisine,MUG-STUDIO,Mug céramique Studio,Blanc,,pc,20,"0,25",Oui
+721,Adaptateur prise EU compact,3761000007211,"5,90",14,1 pc,Électronique > Accessoires,,,,,pc,20,"0,25",Oui
