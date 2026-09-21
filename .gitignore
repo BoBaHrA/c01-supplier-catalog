@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local/client data: never commit real supplier files or client outputs
+data/incoming/
+data/client/
+output/*
+!output/.gitkeep
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
